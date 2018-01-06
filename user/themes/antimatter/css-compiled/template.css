@@ -19,8 +19,8 @@ html, body {
   height: 100%; }
 
 body {
-  background: #fff;
-  color: #444;
+  background: #000;
+  color: #fff;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
@@ -41,7 +41,7 @@ b, strong, label, th {
   padding-right: 0; }
 
 #body {
-  background: #fff;
+  background: #000;
   padding-top: 8rem;
   padding-bottom: 11rem; }
 
@@ -77,17 +77,17 @@ b, strong, label, th {
   z-index: 10;
   width: 100%;
   height: 5rem;
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: transparent;
   box-shadow: 0 0.05rem 1rem rgba(0, 0, 0, 0.15); }
   #header.scrolled {
     height: 3rem;
-    background-color: rgba(255, 255, 255, 0.9) !important;
+    background-color: #161616 !important;
     box-shadow: 0 0.05rem 1rem rgba(0, 0, 0, 0.15) !important; }
     #header.scrolled #logo h3 {
-      color: #444 !important;
+      color: #fff !important;
       font-size: 1.6rem !important; }
     #header.scrolled #logo a, #header.scrolled #navbar span {
-      color: #444 !important; }
+      color: #fff !important; }
     #header.scrolled #navbar a {
       color: #1BB3E9 !important; }
       #header.scrolled #navbar a:hover {
@@ -106,7 +106,7 @@ b, strong, label, th {
       margin: 0;
       text-transform: uppercase; }
       #header #logo h3 a {
-        color: #444; }
+        color: #fff; }
   #header #navbar {
     font-size: 0.9rem;
     /* Child Indicator */ }
@@ -544,7 +544,7 @@ td {
       width: 100%; } }
 
 .three-column-bullet {
-  width: 33.33333%; }
+  width: 33.3333333333%; }
   @media only all and (max-width: 47.938em) {
     .three-column-bullet {
       width: 100%; } }
@@ -601,9 +601,9 @@ td {
           border-bottom: 0; }
       #panel .navigation li.active > a {
         background: #fff;
-        color: #444; }
+        color: #fff; }
         #panel .navigation li.active > a:hover {
-          color: #444; }
+          color: #fff; }
       #panel .navigation li:first-child {
         border-top: 1px solid #3d3d3d; }
       #panel .navigation li ul {
@@ -654,7 +654,7 @@ td {
     .list-item .list-blog-header h4 {
       margin-bottom: 0.5rem; }
       .list-item .list-blog-header h4 a {
-        color: #444; }
+        color: #fff; }
         .list-item .list-blog-header h4 a:hover {
           color: #1BB3E9; }
     .list-item .list-blog-header img {
@@ -773,7 +773,7 @@ ul.pagination {
   margin-top: -2.5rem;
   font-weight: bold;
   font-size: 1rem;
-  color: #777777; }
+  color: white; }
   @media only all and (max-width: 47.938em) {
     .simplesearch .search-details {
       float: none;
