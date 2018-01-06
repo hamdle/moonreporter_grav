@@ -1,0 +1,11 @@
+email: contact@ericmarty.co
+fullname: 'Eric Marty'
+title: Admin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$Ki5vRtxOVS4WBkRAJqMqSOeoAJXF6QLuVwF7e6Gf.aTm5ENZYsOWy

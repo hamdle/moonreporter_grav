@@ -1,0 +1,17 @@
+title: 'Moon Reporter'
+default_lang: en
+author:
+  name: 'Eric Marty'
+  email: contact@ericmarty.co
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Moon Reporter, a video game by Eric Marty.'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog
