@@ -88,11 +88,11 @@ body h3 {
   z-index: 10;
   width: 100%;
   height: 5rem;
-  background-color: transparent;
+  background-color: #6a44ff;
   box-shadow: 0 0.05rem 1rem rgba(0, 0, 0, 0.15); }
   #header.scrolled {
     height: 4rem;
-    background-color: #161616 !important;
+    background-color: #6a44ff !important;
     box-shadow: 0 0.05rem 1rem rgba(0, 0, 0, 0.15) !important; }
     #header.scrolled #logo h3 {
       color: #fff !important;
@@ -100,7 +100,7 @@ body h3 {
     #header.scrolled #logo a, #header.scrolled #navbar span {
       color: #fff !important; }
     #header.scrolled #navbar a {
-      color: #6d4cff !important; }
+      color: #fff; }
       #header.scrolled #navbar a:hover {
         color: #2a00e5 !important; }
     #header.scrolled #navbar a:before, #header.scrolled #navbar a:after {
@@ -150,7 +150,7 @@ body h3 {
       #header #navbar ul.navigation {
         display: inline-block;
         float: right;
-        margin-top: 1.4rem; }
+        margin-top: 1rem; }
         #header #navbar ul.navigation li {
           float: left;
           position: relative;
@@ -161,6 +161,7 @@ body h3 {
             font-family: "Montserrat", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
             display: inline-block;
             padding: 0.3rem 0.8rem;
+            color: #fff;
             -webkit-backface-visibility: hidden; }
             #header #navbar ul.navigation li a:before, #header #navbar ul.navigation li a:after {
               content: "";
@@ -279,8 +280,14 @@ body h3 {
   left: 0;
   color: #999;
   text-align: center; }
+  #footer a {
+    color: #6a44ff; }
   #footer a:hover {
     color: #fff; }
+  #footer a.ericmarty-footer-link {
+    color: #49ea00; }
+    #footer a.ericmarty-footer-link:hover {
+      color: #fff; }
   #footer .totop {
     position: absolute;
     bottom: 5rem;

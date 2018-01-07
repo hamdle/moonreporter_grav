@@ -8,7 +8,7 @@ $dropdown-color: #f6f6f6;
 	z-index: 10;
 	width: 100%;
 	height: $header-height;
-	background-color: transparent;
+	background-color: $header-bg;
 	box-shadow: 0 0.05rem 1rem rgba(0,0,0, 0.15);
 
 	// scroll based changes
@@ -25,7 +25,7 @@ $dropdown-color: #f6f6f6;
 			color: $core-text !important;
 		}
 		#navbar a {
-			color: $core-accent !important;
+			color: $white;
             &:hover {
                 color: darken($core-accent, 20%) !important;
             }
@@ -110,7 +110,7 @@ $dropdown-color: #f6f6f6;
 				float: right;
 				@extend .default-animation;
 
-				margin-top: 1.4rem;
+				margin-top: 1rem;
 
 				li {
 					float: left;
@@ -120,6 +120,7 @@ $dropdown-color: #f6f6f6;
 						font-family: $font-family-header;
 						display: inline-block;
 						padding: 0.3rem 0.8rem;
+						color: $white;
 
 						-webkit-backface-visibility: hidden;
 
