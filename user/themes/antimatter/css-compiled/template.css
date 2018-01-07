@@ -89,17 +89,17 @@ body h3 {
   z-index: 10;
   width: 100%;
   height: 5rem;
-  background-color: #6a44ff;
+  background-color: #fff;
   box-shadow: 0 0.05rem 1rem rgba(0, 0, 0, 0.15); }
   #header.scrolled {
     height: 4rem;
-    background-color: #6a44ff !important;
+    background-color: #fff !important;
     box-shadow: 0 0.05rem 1rem rgba(0, 0, 0, 0.15) !important; }
     #header.scrolled #logo h3 {
       color: #fff !important;
       font-size: 1.6rem !important; }
     #header.scrolled #logo a, #header.scrolled #navbar span {
-      color: #fff !important; }
+      color: #000 !important; }
     #header.scrolled #navbar a {
       color: #fff; }
       #header.scrolled #navbar a:hover {
@@ -118,7 +118,7 @@ body h3 {
       margin: 0;
       text-transform: uppercase; }
       #header #logo h3 a {
-        color: #fff; }
+        color: #000; }
   #header #navbar {
     font-size: 1.4rem;
     /* Child Indicator */ }
@@ -163,7 +163,7 @@ body h3 {
             font-size: 20px;
             display: inline-block;
             padding: 0.3rem 0.8rem;
-            color: #fff;
+            color: #000;
             -webkit-backface-visibility: hidden; }
             #header #navbar ul.navigation li a:hover {
               color: #000; }
