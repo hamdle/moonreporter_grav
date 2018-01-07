@@ -1,6 +1,6 @@
-$sidebar-color:     #333;
+$sidebar-color:     #161616;
 $panel-padding:     1rem;
-$panel-text:        #ddd;
+$panel-text:        #fff;
 
 .sb-slidebar {
     background-color: $sidebar-color !important;
@@ -33,7 +33,7 @@ $panel-text:        #ddd;
             &.active {
                 & > a {
                     background: #fff;
-                    color: $core-text;
+                    color: #000;
                     &:hover {
                         color: $core-text;
                     }
