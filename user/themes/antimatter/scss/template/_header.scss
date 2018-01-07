@@ -13,8 +13,8 @@ $dropdown-color: #f6f6f6;
 
 	// scroll based changes
 	&.scrolled {
-		height: $header-height - 2rem;
-		background-color: #161616 !important;
+		height: $header-height - 1rem;
+		background-color: $header-bg !important;
 		box-shadow: 0 0.05rem 1rem rgba(0,0,0, 0.15) !important;
 
 		#logo h3 {
@@ -60,7 +60,7 @@ $dropdown-color: #f6f6f6;
 	}
 
 	#navbar {
-		font-size: $core-font-size - 0.1rem;
+		font-size: $core-font-size + 0.4rem;
 
 		/* Child Indicator */
 		.has-children {

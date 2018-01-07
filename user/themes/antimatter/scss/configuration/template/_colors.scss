@@ -1,6 +1,6 @@
 // Core
 $core-text:						#fff;
-$core-accent:					#1BB3E9;
+$core-accent:					#6d4cff;
 $secondary-link:				#F6635E;
 $white:							#fff;
 $black:							#000;
@@ -20,6 +20,7 @@ $core-box-shadow-focus: 		$core-box-shadow, 0 0 5px rgba(darken($core-border-col
 $page-bg:						#000;
 
 // Header
+$header-bg:						#161616;
 $header-text: 					#FFFFFF;
 
 // Nav
@@ -45,7 +46,7 @@ $bottom-bg:						#f7f7f7;
 $bottom-text:					$core-text;
 
 // Footer
-$footer-bg:						#333;
+$footer-bg:						#161616;
 $footer-text:					#999;
 
 $rule-color: 					#F0F2F4;

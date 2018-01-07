@@ -275,7 +275,7 @@ class __TwigTemplate_e0da829596832cffacebf96e0e49b093431e941f5d2f043ed5adb771d2c
             <div class=\"totop\">
                 <span><a href=\"#\" id=\"toTop\"><i class=\"fa fa-arrow-up\"></i></a></span>
             </div>
-            <p><a href=\"http://getgrav.org\">Grav</a> was <i class=\"fa fa-code\"></i> with <i class=\"fa fa-heart\"></i> by <a href=\"http://www.rockettheme.com\">RocketTheme</a>.</p>
+            <p><a href=\"http://moonreporter.com\">Moon Reporter</a> <i class=\"fa fa-code\"></i> <a href=\"http://ericmarty.co\" target=\"_blank\">Eric Marty</a></p>
         </footer>
         ";
     }
@@ -413,7 +413,7 @@ class __TwigTemplate_e0da829596832cffacebf96e0e49b093431e941f5d2f043ed5adb771d2c
             <div class=\"totop\">
                 <span><a href=\"#\" id=\"toTop\"><i class=\"fa fa-arrow-up\"></i></a></span>
             </div>
-            <p><a href=\"http://getgrav.org\">Grav</a> was <i class=\"fa fa-code\"></i> with <i class=\"fa fa-heart\"></i> by <a href=\"http://www.rockettheme.com\">RocketTheme</a>.</p>
+            <p><a href=\"http://moonreporter.com\">Moon Reporter</a> <i class=\"fa fa-code\"></i> <a href=\"http://ericmarty.co\" target=\"_blank\">Eric Marty</a></p>
         </footer>
         {% endblock %}
     </div>

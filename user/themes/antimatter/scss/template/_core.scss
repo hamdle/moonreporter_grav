@@ -1,5 +1,11 @@
 html, body {
 	height: 100%; // use !important to override slidebars.min.css
+
+	background: url(/images/a-great-close-up-3.png) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 
 body {
