@@ -1,4 +1,5 @@
 @import url(//fonts.googleapis.com/css?family=Montserrat:400|Raleway:300,400,600|Inconsolata);
+@import url(/user/themes/antimatter/fonts/bitbold/stylesheet.css);
 #header #logo h3, #header #navbar .panel-activation, #footer p {
   position: relative;
   top: 50%;
@@ -102,7 +103,7 @@ body h3 {
     #header.scrolled #navbar a {
       color: #fff; }
       #header.scrolled #navbar a:hover {
-        color: #2a00e5 !important; }
+        color: #000 !important; }
     #header.scrolled #navbar a:before, #header.scrolled #navbar a:after {
       background-color: #6d4cff !important; }
     #header.scrolled .navigation {
@@ -158,11 +159,14 @@ body h3 {
           /* Dropdown CSS */
           /* Active on Hover */ }
           #header #navbar ul.navigation li a {
-            font-family: "Montserrat", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+            font-family: "bitboldregular", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+            font-size: 20px;
             display: inline-block;
             padding: 0.3rem 0.8rem;
             color: #fff;
             -webkit-backface-visibility: hidden; }
+            #header #navbar ul.navigation li a:hover {
+              color: #000; }
             #header #navbar ul.navigation li a:before, #header #navbar ul.navigation li a:after {
               content: "";
               position: absolute;

@@ -27,7 +27,7 @@ $dropdown-color: #f6f6f6;
 		#navbar a {
 			color: $white;
             &:hover {
-                color: darken($core-accent, 20%) !important;
+                color: #000 !important;
             }
 		}
 		#navbar a:before, #navbar a:after {
@@ -117,14 +117,17 @@ $dropdown-color: #f6f6f6;
 					position: relative;
 
 					a {
-						font-family: $font-family-header;
+						font-family: $font-family-header-links;
+						font-size: 20px;
 						display: inline-block;
 						padding: 0.3rem 0.8rem;
 						color: $white;
 
 						-webkit-backface-visibility: hidden;
 
-
+						&:hover {
+							color: #000;
+						}
 						&:before, &:after {
 							content: "";
 							position: absolute;
