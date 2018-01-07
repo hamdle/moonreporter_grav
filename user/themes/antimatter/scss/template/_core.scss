@@ -26,6 +26,14 @@ b, strong {
 	font-weight: $font-weight-bold
 }
 
+body p {
+	text-align: center;
+}
+
+body h3 {
+	text-align: center;
+}
+
 // Global Container
 #container {
  	min-height: 100%;
