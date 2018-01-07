@@ -3,7 +3,7 @@ title: Home
 media_order: 'a-great-close-up-3_edit.png,first-level_edit.png'
 ---
 
-# The Moon's Finest News Reporter.
+# The Moon's Finest Reporter
 
 ![](first-level_edit.png)
 
