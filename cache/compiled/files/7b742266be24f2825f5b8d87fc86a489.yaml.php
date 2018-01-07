@@ -2,15 +2,29 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/moonreporter/public_html/user/config/site.yaml',
-    'modified' => 1512560872,
+    'modified' => 1515362666,
     'data' => [
-        'title' => 'Grav',
+        'title' => 'Moon Reporter',
+        'default_lang' => 'en',
         'author' => [
-            'name' => 'Joe Bloggs',
-            'email' => 'joe@test.com'
+            'name' => 'Eric Marty',
+            'email' => 'contact@ericmarty.co'
+        ],
+        'taxonomies' => [
+            0 => 'category',
+            1 => 'tag'
         ],
         'metadata' => [
-            'description' => 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+            'description' => 'Moon Reporter, a video game by Eric Marty.'
+        ],
+        'summary' => [
+            'enabled' => true,
+            'format' => 'short',
+            'size' => 300,
+            'delimiter' => '==='
+        ],
+        'blog' => [
+            'route' => '/blog'
         ]
     ]
 ];

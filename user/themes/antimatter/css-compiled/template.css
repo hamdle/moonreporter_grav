@@ -91,6 +91,8 @@ body h3 {
   height: 5rem;
   background-color: #fff;
   box-shadow: 0 0.05rem 1rem rgba(0, 0, 0, 0.15); }
+  #header #logo img {
+    width: 274px; }
   #header.scrolled {
     height: 4rem;
     background-color: #fff !important;
