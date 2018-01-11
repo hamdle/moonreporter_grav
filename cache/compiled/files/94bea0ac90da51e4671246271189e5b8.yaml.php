@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/moonreporter/public_html/user/plugins/form/languages.yaml',
-    'modified' => 1512560872,
+    'modified' => 1515641839,
     'data' => [
         'en' => [
             'PLUGIN_FORM' => [

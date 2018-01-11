@@ -2,10 +2,10 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/moonreporter/public_html/user/plugins/form/blueprints.yaml',
-    'modified' => 1512560872,
+    'modified' => 1515641839,
     'data' => [
         'name' => 'Form',
-        'version' => '2.11.0',
+        'version' => '2.11.1',
         'description' => 'Enables the forms handling',
         'icon' => 'check-square',
         'author' => [
