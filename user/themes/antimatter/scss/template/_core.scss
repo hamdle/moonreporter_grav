@@ -26,14 +26,6 @@ b, strong {
 	font-weight: $font-weight-bold
 }
 
-body p {
-	text-align: center;
-}
-
-body h3 {
-	text-align: center;
-}
-
 // Global Container
 #container {
  	min-height: 100%;
@@ -70,3 +62,13 @@ body h3 {
   float: right;
 }
 
+// Added by ME
+
+p img {
+	display: block;
+    margin: 0 auto;
+}
+
+@media only screen and (min-width: 1100px) {
+	
+}
