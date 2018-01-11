@@ -10,6 +10,7 @@ media_order: wizard-hat-first_edit.png
 ##### Builds
 
 * [Download for Windows](/beta/moonreporter_windows.zip). Run the .exe to play.
+* [Download for Mac](/beta/moonreporter_mac.zip).
 * [Play in the browser](/beta). This version has the worst performance.
 
 ##### Controls
