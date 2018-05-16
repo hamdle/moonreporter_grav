@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/moonreporter/public_html/system/blueprints/config/site.yaml',
-    'modified' => 1512560872,
+    'modified' => 1526499718,
     'data' => [
         'title' => 'PLUGIN_ADMIN.SITE',
         'form' => [

@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/moonreporter/public_html/system/languages/no.yaml',
-    'modified' => 1512560872,
+    'modified' => 1526499718,
     'data' => [
         'FRONTMATTER_ERROR_PAGE' => '---
 Tittel: %1$s
