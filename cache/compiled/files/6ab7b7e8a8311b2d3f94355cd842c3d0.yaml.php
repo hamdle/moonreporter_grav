@@ -2,11 +2,14 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/moonreporter/public_html/user/plugins/form/form.yaml',
-    'modified' => 1515641839,
+    'modified' => 1526499969,
     'data' => [
         'enabled' => true,
         'built_in_css' => true,
+        'inline_css' => true,
         'refresh_prevention' => false,
+        'client_side_validation' => true,
+        'inline_errors' => false,
         'files' => [
             'multiple' => false,
             'limit' => 10,

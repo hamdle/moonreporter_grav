@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledLanguages',
-    'timestamp' => 1526499734,
-    'checksum' => '292ebea8968718b7f90cd080f1589f28',
+    'timestamp' => 1526499994,
+    'checksum' => '99f05d616bd01c940ad5c386133254b6',
     'files' => [
         'system/languages' => [
             'ar' => [
@@ -121,11 +121,11 @@ return [
         'user/plugins' => [
             'plugins/form' => [
                 'file' => 'user/plugins/form/languages.yaml',
-                'modified' => 1515641839
+                'modified' => 1526499969
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/languages.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499972
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/languages.yaml',
@@ -135,189 +135,189 @@ return [
         'user/plugins/login/languages' => [
             'de' => [
                 'file' => 'user/plugins/login/languages/de.yaml',
-                'modified' => 1512560874
+                'modified' => 1526499968
             ],
             'en' => [
                 'file' => 'user/plugins/login/languages/en.yaml',
-                'modified' => 1512560874
+                'modified' => 1526499968
             ],
             'fr' => [
                 'file' => 'user/plugins/login/languages/fr.yaml',
-                'modified' => 1512560874
+                'modified' => 1526499968
             ],
             'hr' => [
                 'file' => 'user/plugins/login/languages/hr.yaml',
-                'modified' => 1512560874
+                'modified' => 1526499968
             ],
             'hu' => [
                 'file' => 'user/plugins/login/languages/hu.yaml',
-                'modified' => 1512560874
+                'modified' => 1526499968
             ],
             'ro' => [
                 'file' => 'user/plugins/login/languages/ro.yaml',
-                'modified' => 1512560874
+                'modified' => 1526499968
             ],
             'ru' => [
                 'file' => 'user/plugins/login/languages/ru.yaml',
-                'modified' => 1512560874
+                'modified' => 1526499968
             ]
         ],
         'user/plugins/admin/languages' => [
             'ar' => [
                 'file' => 'user/plugins/admin/languages/ar.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'bg' => [
                 'file' => 'user/plugins/admin/languages/bg.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'br' => [
                 'file' => 'user/plugins/admin/languages/br.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'ca' => [
                 'file' => 'user/plugins/admin/languages/ca.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'cs' => [
                 'file' => 'user/plugins/admin/languages/cs.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'cy' => [
                 'file' => 'user/plugins/admin/languages/cy.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'da' => [
                 'file' => 'user/plugins/admin/languages/da.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'de' => [
                 'file' => 'user/plugins/admin/languages/de.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'el' => [
                 'file' => 'user/plugins/admin/languages/el.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'en' => [
                 'file' => 'user/plugins/admin/languages/en.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'es' => [
                 'file' => 'user/plugins/admin/languages/es.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'et' => [
                 'file' => 'user/plugins/admin/languages/et.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'eu' => [
                 'file' => 'user/plugins/admin/languages/eu.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'fa' => [
                 'file' => 'user/plugins/admin/languages/fa.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'fi' => [
                 'file' => 'user/plugins/admin/languages/fi.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'fr' => [
                 'file' => 'user/plugins/admin/languages/fr.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'he' => [
                 'file' => 'user/plugins/admin/languages/he.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'hr' => [
                 'file' => 'user/plugins/admin/languages/hr.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'hu' => [
                 'file' => 'user/plugins/admin/languages/hu.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'id' => [
                 'file' => 'user/plugins/admin/languages/id.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'it' => [
                 'file' => 'user/plugins/admin/languages/it.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'ja' => [
                 'file' => 'user/plugins/admin/languages/ja.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'ko' => [
                 'file' => 'user/plugins/admin/languages/ko.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'lt' => [
                 'file' => 'user/plugins/admin/languages/lt.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'nl' => [
                 'file' => 'user/plugins/admin/languages/nl.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'no' => [
                 'file' => 'user/plugins/admin/languages/no.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'pl' => [
                 'file' => 'user/plugins/admin/languages/pl.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'pt' => [
                 'file' => 'user/plugins/admin/languages/pt.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'ro' => [
                 'file' => 'user/plugins/admin/languages/ro.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'ru' => [
                 'file' => 'user/plugins/admin/languages/ru.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'sk' => [
                 'file' => 'user/plugins/admin/languages/sk.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'sl' => [
                 'file' => 'user/plugins/admin/languages/sl.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'sv' => [
                 'file' => 'user/plugins/admin/languages/sv.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'th' => [
                 'file' => 'user/plugins/admin/languages/th.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'tlh' => [
                 'file' => 'user/plugins/admin/languages/tlh.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'tr' => [
                 'file' => 'user/plugins/admin/languages/tr.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'uk' => [
                 'file' => 'user/plugins/admin/languages/uk.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'vi' => [
                 'file' => 'user/plugins/admin/languages/vi.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ],
             'zh' => [
                 'file' => 'user/plugins/admin/languages/zh.yaml',
-                'modified' => 1512560872
+                'modified' => 1526499974
             ]
         ]
     ],
@@ -1971,6 +1971,10 @@ return [
                 'ALLOW_WEBSERVER_GZIP' => 'Permetre WebServer Gzip',
                 'OFFLINE_WARNING' => 'La connexió a la GPM no es pot establir'
             ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Error',
+                'ERROR_MESSAGE' => 'Ups. Sembla que aquesta pàgina no existeix.'
+            ],
             'FRONTMATTER_ERROR_PAGE' => '---
 title: %1$s
 ---
@@ -2781,6 +2785,10 @@ Máte na svém účtu aktivováno **dvoufaktorové ověřování**. Pro dokonče
                 'DROPZONE_RESPONSE_ERROR' => 'Server vrátil chybový kód: {{statusCode}}.',
                 'YES' => 'Ano',
                 'NO' => 'Ne'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Chyba',
+                'ERROR_MESSAGE' => 'A jéje. Vypadá to, že hledaná stránka tu není.'
             ],
             'INFLECTOR_UNCOUNTABLE' => [
                 0 => 'vybavení',
@@ -4476,7 +4484,8 @@ Sti: `%2$s`
                 'DESTINATION_HELP' => 'Das Ziel, wohin die Dateien hochgeladen werden sollen.',
                 'ACCEPT' => 'Erlaube MIME-Typen',
                 'ACCEPT_HELP' => 'Eine Liste von MIME-Typen, die hochgeladen werden dürfen.',
-                'ERROR_VALIDATING_CAPTCHA' => 'Die Überprüfung des Captcha ist fehlgeschlagen.'
+                'ERROR_VALIDATING_CAPTCHA' => 'Die Überprüfung des Captcha ist fehlgeschlagen.',
+                'DATA_SUMMARY' => 'Hier die Zusammenfassung von dem, was Sie geschrieben haben:'
             ],
             'PLUGIN_ERROR' => [
                 'ERROR' => 'Fehler',
@@ -5341,6 +5350,7 @@ Pfad: `%2$s`
                 'ADD_MODULAR' => 'Add Modular',
                 'MOVE' => 'Move',
                 'DELETE' => 'Delete',
+                'UNSET' => 'Unset',
                 'VIEW' => 'View',
                 'SAVE' => 'Save',
                 'NORMAL' => 'Normal',
@@ -5636,7 +5646,10 @@ Pfad: `%2$s`
                 'ETAG_HELP' => 'Sets the etag header to help identify when a page has been modified',
                 'VARY_ACCEPT_ENCODING' => 'Vary accept encoding',
                 'VARY_ACCEPT_ENCODING_HELP' => 'Sets the `Vary: Accept Encoding` header to help with proxy and CDN caching',
+                'MARKDOWN_EXTRA' => 'Markdown extra',
                 'MARKDOWN_EXTRA_HELP' => 'Enable default support for Markdown Extra - https://michelf.ca/projects/php-markdown/extra/',
+                'MARKDOWN_EXTRA_ESCAPE_FENCES' => 'Escape HTML elements in markdown extra fences',
+                'MARKDOWN_EXTRA_ESCAPE_FENCES_HELP' => 'Escapes HTML elements in markdown extra fences',
                 'AUTO_LINE_BREAKS' => 'Auto line breaks',
                 'AUTO_LINE_BREAKS_HELP' => 'Enable support for automatic line breaks in markdown',
                 'AUTO_URL_LINKS' => 'Auto URL links',
@@ -5846,7 +5859,6 @@ Pfad: `%2$s`
                 'FRONTMATTER_IGNORE_FIELDS' => 'Ignore frontmatter fields',
                 'FRONTMATTER_IGNORE_FIELDS_HELP' => 'Certain frontmatter fields may contain Twig but should not be processed, such as \'forms\'',
                 'PACKAGE_X_INSTALLED_SUCCESSFULLY' => 'Package %s installed successfully',
-                'NEEDS_GRAV_1_1' => '<i class="fa fa-exclamation-triangle"></i> <strong>You are running Grav v%s</strong>. You must update to the latest <strong>Grav v1.1.x</strong> release in order to ensure compatibility. This may require switching to <strong>Testing GPM releases</strong> in the System configuration.',
                 'ORDERING_DISABLED_BECAUSE_PARENT_SETTING_ORDER' => 'Parent setting order, ordering disabled',
                 'ORDERING_DISABLED_BECAUSE_PAGE_NOT_VISIBLE' => 'Page is not visible, ordering disabled',
                 'ORDERING_DISABLED_BECAUSE_TOO_MANY_SIBLINGS' => 'Ordering via the admin is unsupported because there are more than 200 siblings',
@@ -5871,6 +5883,7 @@ Pfad: `%2$s`
                 'PREVIEW' => 'Preview',
                 'FULLSCREEN' => 'Fullscreen',
                 'MODULAR' => 'Modular',
+                'MODULAR_SETUP' => 'Modular Setup',
                 'NON_ROUTABLE' => 'Non-Routable',
                 'NON_MODULAR' => 'Non-Modular',
                 'NON_VISIBLE' => 'Non-Visible',
@@ -5971,7 +5984,7 @@ Pfad: `%2$s`
                 'GPM_OFFICIAL_ONLY_HELP' => 'Only allow direct installs from the official GPM repository only.',
                 'NO_CHILD_TYPE' => 'No child type for this rawroute',
                 'SORTABLE_PAGES' => 'Sortable Pages:',
-                'UNSORTABLE_PAGES' => 'Unsortable Pages:',
+                'UNSORTABLE_PAGES' => 'Unsortable Pages',
                 'ADMIN_SPECIFIC_OVERRIDES' => 'Admin Specific Overrides',
                 'ADMIN_CHILDREN_DISPLAY_ORDER' => 'Children Display Order',
                 'ADMIN_CHILDREN_DISPLAY_ORDER_HELP' => 'The order that children of this page should be displayed in the \'Pages\' view of Admin plugin',
@@ -5988,18 +6001,31 @@ Pfad: `%2$s`
                 '2FA_TITLE' => '2-Factor Authentication',
                 '2FA_INSTRUCTIONS' => '##### 2-Factor Authentication
 You have **2FA** enabled on this account. Please use your **2FA** app to enter the current **6-digit code** to complete the login process.',
-                '2FA_REGEN_HINT' => 'regenerating the secret this will require you to update your authenticator app',
+                '2FA_REGEN_HINT' => 'Regenerating the secret will require you to update your authenticator app',
                 '2FA_LABEL' => 'Admin Access',
                 '2FA_FAILED' => 'Invalid 2-Factor Authentication code, please try again...',
                 '2FA_ENABLED' => '2FA Enabled',
                 '2FA_CODE_INPUT' => '000000',
                 '2FA_SECRET' => '2FA Secret',
-                '2FA_SECRET_HELP' => 'Scan this QR code into your [Authenticator App](https://learn.getgrav.org/admin-panel/2fa#apps). Also it\'s a good idea to backup the secret in a safe location, in case you need to reinstall your app.  Check the [Grav docs](https://learn.getgrav.org/admin-panel/2fa) for more information ',
+                '2FA_SECRET_HELP' => 'Scan this QR code into your [Authenticator App](https://learn.getgrav.org/admin-panel/2fa#apps). Also it\'s a good idea to backup the secret in a safe location, in case you need to reinstall your app. Check the [Grav docs](https://learn.getgrav.org/admin-panel/2fa) for more information ',
                 '2FA_REGENERATE' => 'Regenerate',
                 'FORCE_LOWERCASE_URLS' => 'Force lowercase URLs',
-                'FORCE_LOWERCASE_URLS_HELP' => 'By default grav will set all slugs and routes to be lowercase.  With this set to false, Uppercase slugs and routes can be used',
+                'FORCE_LOWERCASE_URLS_HELP' => 'By default Grav will set all slugs and routes to be lowercase. With this set to false, Uppercase slugs and routes can be used',
                 'INTL_ENABLED' => 'Intl module integration',
-                'INTL_ENABLED_HELP' => 'Use Intl PHP module and collate to sort UTF8 based collections'
+                'INTL_ENABLED_HELP' => 'Use Intl PHP module and collate to sort UTF8 based collections',
+                'VIEW_SITE_TIP' => 'View site',
+                'TOOLS_DIRECT_INSTALL_TITLE' => 'Direct Install of Grav Packages',
+                'TOOLS_DIRECT_INSTALL_UPLOAD_TITLE' => 'Install Package via Direct ZIP Upload',
+                'TOOLS_DIRECT_INSTALL_UPLOAD_DESC' => 'You can easily install a valid Grav <strong>theme</strong>, <strong>plugin</strong>, or even <strong>Grav</strong> update Zip package via this method.  This package does not have to be registered via GPM and allows you to easily roll back to a prior version or install for testing.',
+                'TOOLS_DIRECT_INSTALL_URL_TITLE' => 'Install Package via Remote URL Reference',
+                'TOOLS_DIRECT_INSTALL_URL_DESC' => 'Alternatively, you can also reference a full URL to the package ZIP file and install it via this remote URL.',
+                'TOOLS_DIRECT_INSTALL_UPLOAD_BUTTON' => 'Upload and install',
+                'ROUTE_OVERRIDES' => 'Route Overrides',
+                'ROUTE_DEFAULT' => 'Default Route',
+                'ROUTE_CANONICAL' => 'Canonical Route',
+                'ROUTE_ALIASES' => 'Route Aliases',
+                'OPEN_NEW_TAB' => 'Open in new tab',
+                'PAGEMEDIA_RESIZER' => '> The following settings apply to images uploaded through the page media. Resize Width / Height will automatically resize down and proportionally an image if exceeds the limits set in the inputs. Resolution min and max values define the size ranges for uploaded images. Set the fields to 0 to prevent any manipulation.'
             ],
             'PLUGIN_LOGIN' => [
                 'USERNAME' => 'Username',
@@ -6021,6 +6047,7 @@ You have **2FA** enabled on this account. Please use your **2FA** app to enter t
                 'FORGOT_INSTRUCTIONS_SENT_VIA_EMAIL' => 'Instructions to reset your password have been sent via email',
                 'FORGOT_FAILED_TO_EMAIL' => 'Failed to email instructions, please try again later',
                 'FORGOT_CANNOT_RESET_EMAIL_NO_EMAIL' => 'Cannot reset password for %s, no email address is set',
+                'FORGOT_CANNOT_RESET_EMAIL_NO_PASSWORD' => 'Cannot reset password for %s, this email is associated with a remote account',
                 'FORGOT_USERNAME_DOES_NOT_EXIST' => 'User with username <b>%s</b> does not exist',
                 'FORGOT_EMAIL_NOT_CONFIGURED' => 'Cannot reset password. This site is not configured to send emails',
                 'FORGOT_EMAIL_SUBJECT' => '%s Password Reset Request',
@@ -6043,7 +6070,7 @@ You have **2FA** enabled on this account. Please use your **2FA** app to enter t
                 'USER_NEEDS_EMAIL_FIELD' => 'The user needs an email field',
                 'EMAIL_SENDING_FAILURE' => 'An error occurred while sending the email',
                 'ACTIVATION_EMAIL_SUBJECT' => 'Activate your account on %s',
-                'ACTIVATION_EMAIL_BODY' => '<h1>%Account Activation</h1><p>Hi %1$s, </p><p>Your account has been successfully created on <b>%3$s</b>, but you cannot login until it is activated.</p><p><br/><a href="%2$s" class="btn-primary">Activate Your Account Now</a><br/><br/></p><p>Alternatively, copy the following URL into your browser\'s address bar:</p><p class="word-break"><a href="%2$s">%2$s</a></p><p><br/>Kind regards,<br/><br/>%4$s</p>',
+                'ACTIVATION_EMAIL_BODY' => '<h1>Account Activation</h1><p>Hi %1$s, </p><p>Your account has been successfully created on <b>%3$s</b>, but you cannot login until it is activated.</p><p><br/><a href="%2$s" class="btn-primary">Activate Your Account Now</a><br/><br/></p><p>Alternatively, copy the following URL into your browser\'s address bar:</p><p class="word-break"><a href="%2$s">%2$s</a></p><p><br/>Kind regards,<br/><br/>%4$s</p>',
                 'ACTIVATION_NOTICE_MSG' => 'Hi %s, your account is created, please check your email to fully activate it',
                 'WELCOME_EMAIL_SUBJECT' => 'Welcome to %s',
                 'WELCOME_EMAIL_BODY' => '<h1>Account Created</h1><p>Hi %1$s, </p><p>Your account has been successfully created on <b>%3$s</b>.</p><p><br/><a href="%2$s" class="btn-primary">Login Now</a><br/><br/></p><p>Alternatively, copy the following URL into your browser\'s address bar:</p><p class="word-break"><a href="%2$s">%2$s</a></p><p><br/>Kind regards,<br/><br/>%4$s</p>',
@@ -6077,6 +6104,8 @@ You have **2FA** enabled on this account. Please use your **2FA** app to enter t
                 'REGISTRATION_FIELD_KEY' => 'Field name',
                 'REDIRECT_AFTER_LOGIN' => 'Redirect after login',
                 'REDIRECT_AFTER_LOGIN_HELP' => 'Custom route to redirect after login',
+                'REDIRECT_AFTER_LOGOUT' => 'Redirect after logout',
+                'REDIRECT_AFTER_LOGOUT_HELP' => 'Custom route to redirect after logout',
                 'REDIRECT_AFTER_REGISTRATION' => 'Redirect after registration',
                 'REDIRECT_AFTER_REGISTRATION_HELP' => 'Custom route to redirect after the registration',
                 'OPTIONS' => 'Options',
@@ -6115,7 +6144,19 @@ You have **2FA** enabled on this account. Please use your **2FA** app to enter t
                 'LOGGED_OUT' => 'You have been successfully logged out...',
                 'PAGE_RESTRICTED' => 'Access is restricted, please login...',
                 'DYNAMIC_VISIBILITY' => 'Dynamic Page Visibility',
-                'DYNAMIC_VISIBILITY_HELP' => 'Allows dynamic processing of page visibility base on access rules if login.visibility_requires_access is set to true on a page'
+                'DYNAMIC_VISIBILITY_HELP' => 'Allows dynamic processing of page visibility base on access rules if login.visibility_requires_access is set to true on a page',
+                'USER_IS_REMOTE_ONLY' => 'This user authenticated with a remote service, so profile cannot be saved',
+                '2FA_TITLE' => '2-Factor Authentication',
+                '2FA_INSTRUCTIONS' => '##### 2-Factor Authentication
+You have **2FA** enabled on this account. Please use your **2FA** app to enter the current **6-digit code** to complete the login process.',
+                '2FA_REGEN_HINT' => 'Regenerating the secret will require you to update your authenticator app',
+                '2FA_FAILED' => 'Invalid 2-Factor Authentication code, please try again...',
+                '2FA_ENABLED' => '2FA Enabled',
+                '2FA_CODE_INPUT' => '000000',
+                '2FA_SECRET' => '2FA Secret',
+                '2FA_SECRET_HELP' => 'Scan this QR code into your [Authenticator App](https://learn.getgrav.org/admin-panel/2fa#apps). Also it\'s a good idea to backup the secret in a safe location, in case you need to reinstall your app. Check the [Grav docs](https://learn.getgrav.org/admin-panel/2fa) for more information ',
+                '2FA_REGENERATE' => 'Regenerate',
+                'BTN_CANCEL' => 'Cancel'
             ],
             'PLUGIN_FORM' => [
                 'NOT_VALIDATED' => 'Form not validated. One or more required fields are missing.',
@@ -6138,6 +6179,7 @@ You have **2FA** enabled on this account. Please use your **2FA** app to enter t
                 'RECAPTCHA_SECRET_KEY_HELP' => 'For more info visit https://developers.google.com/recaptcha',
                 'GENERAL' => 'General',
                 'USE_BUILT_IN_CSS' => 'Use built-in CSS',
+                'USE_INLINE_CSS' => 'Use inline CSS',
                 'FILEUPLOAD_PREVENT_SELF' => 'Cannot use "%s" outside of pages.',
                 'FILEUPLOAD_UNABLE_TO_UPLOAD' => 'Unable to upload file %s: %s',
                 'FILEUPLOAD_UNABLE_TO_MOVE' => 'Unable to move file %s to "%s"',
@@ -6163,7 +6205,13 @@ You have **2FA** enabled on this account. Please use your **2FA** app to enter t
                 'AVOID_OVERWRITING' => 'Avoid overwriting',
                 'AVOID_OVERWRITING_HELP' => 'Prevent files with the same name to be overridden. Date prefix will be added',
                 'RANDOM_NAME' => 'Random name',
-                'RANDOM_NAME_HELP' => 'Generate a random 15 long string name for the uploaded files'
+                'RANDOM_NAME_HELP' => 'Generate a random 15 long string name for the uploaded files',
+                'CLIENT_SIDE_VALIDATION' => 'Client-side validation',
+                'CLIENT_SIDE_VALIDATION_HELP' => 'By default forms will use HTML5 client validation as first line of defense',
+                'INLINE_ERRORS' => 'Inline errors',
+                'INLINE_ERRORS_HELP' => 'Useful with \'client-side validation\' off, shows inline contextual form errors',
+                'RESOLUTION_MIN' => 'The {{attr}} was less than the minimum of {{min}}px <br />',
+                'RESOLUTION_MAX' => 'The {{attr}} was more than the maximum of {{max}}px <br />'
             ],
             'PLUGIN_ERROR' => [
                 'ERROR' => 'Error',
@@ -11339,11 +11387,12 @@ Beállítottad a **Kétlépcsős Hitelesítést** ehhez a fiókhoz. Kérlek hasz
                 'ACCESS_DENIED' => 'Hozzáférés megtagadva...',
                 'LOGIN_FAILED' => 'Sikertelen belépés...',
                 'LOGIN_SUCCESSFUL' => 'Sikeresen beléptél.',
+                'LOGGED_OUT' => 'Sikeresen kiléptél.',
                 'BTN_LOGIN' => 'Belépés',
                 'BTN_LOGOUT' => 'Kilépés',
                 'BTN_FORGOT' => 'Elfelejtettem',
                 'BTN_REGISTER' => 'Regisztráció',
-                'REMEMBER_ME' => 'Jegyezz Meg',
+                'REMEMBER_ME' => 'Jegyezz meg',
                 'REMEMBER_ME_HELP' => 'Elhelyezünk egy hosszú lejáratú sütit a böngésződben, hogy belépve maradhass két munkamenet között.',
                 'REMEMBER_ME_STOLEN_COOKIE' => 'Valaki a belépési adataid felhasználásával látogatta meg ezt az oldalt! Minden munkamenetet kiléptettünk. Kérlek, jelentkezz be ismét és ellenőrizd az adataidat.',
                 'BUILTIN_CSS' => 'Beépített CSS használata',
@@ -16248,6 +16297,10 @@ Masz na tym koncie włączone **2FA**. Użyj aplikacji od **2FA** i wprowadź ak
                 'NO' => 'Nie',
                 'REFRESH_PREVENTION' => 'Zapobiegaj odświeżaniu',
                 'REFRESH_PREVENTION_HELP' => 'Użyj unikatowego identyfikatora ID , aby upewnić się, że przeglądarka nie przetworzy formularza ponownie.'
+            ],
+            'PLUGIN_ERROR' => [
+                'ERROR' => 'Błąd',
+                'ERROR_MESSAGE' => 'Ups. Wygląda na to, że ta strona nie istnieje.'
             ],
             'FRONTMATTER_ERROR_PAGE' => '---
 title: %1$s
@@ -22587,7 +22640,7 @@ Path: `%2$s`
                 6 => 'søndag'
             ]
         ],
-        'checksum' => '292ebea8968718b7f90cd080f1589f28',
-        'timestamp' => 1526499734
+        'checksum' => '99f05d616bd01c940ad5c386133254b6',
+        'timestamp' => 1526499994
     ]
 ];

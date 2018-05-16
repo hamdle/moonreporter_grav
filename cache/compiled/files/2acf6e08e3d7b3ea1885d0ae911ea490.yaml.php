@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/moonreporter/public_html/user/plugins/admin/languages/sl.yaml',
-    'modified' => 1512560872,
+    'modified' => 1526499974,
     'data' => [
         'PLUGIN_ADMIN' => [
             'LOGIN_BTN' => 'Prijava',

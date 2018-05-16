@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/var/www/html/moonreporter/public_html/user/plugins/markdown-notices/markdown-notices.yaml',
-    'modified' => 1512560872,
+    'modified' => 1526499970,
     'data' => [
         'enabled' => true,
         'built_in_css' => true,
