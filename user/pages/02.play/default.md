@@ -1,6 +1,6 @@
 ---
 title: Play
-media_order: wizard-hat-first_edit.png
+media_order: 'editor-playing-2-2018.png,editor-playing-3-2018.png'
 ---
 
 # This game is in development. 
@@ -16,8 +16,9 @@ media_order: wizard-hat-first_edit.png
 ##### Controls
 * Move: A, D
 * Jump: W or K
-* Fire: Left-Ctrl or L
+* Fire: Click or Left-Ctrl or L
 * Do not use the **space bar**. I think it's mapped to multiple buttons.
 
-![Wizard Hat](wizard-hat-first_edit.png)
+![](editor-playing-2-2018.png)
 
+![](editor-playing-3-2018.png)

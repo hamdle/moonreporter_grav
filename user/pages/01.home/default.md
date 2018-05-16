@@ -1,10 +1,10 @@
 ---
 title: Home
-media_order: 'a-great-close-up-3_edit.png,first-level_edit.png'
+media_order: 'welcome-to-moon-news.png,editor-playing-1-2018.png'
 ---
 
 # The Moon's Finest Reporter
 
-![](first-level_edit.png)
+![](welcome-to-moon-news.png)
 
-![](a-great-close-up-3_edit.png)
+![](editor-playing-1-2018.png)
